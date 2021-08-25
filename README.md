@@ -12,7 +12,7 @@
 <!-- -  :computer: Most used languages 
 
     [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinoyovo&langs_count=5&hide_title=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA)](https://github.com/martinoyovo/github-readme-stats)-->
-- 📫 Want to reach me ? Here is my social medias username: @martinoyovo. Looking forward to meet you, Dear!
+- 📫 Want to reach me ? Here is my username: [@martinoyovo](https://twitter.com/martinoyovo). Looking forward to meet you, Dear!
 
 
 <!---
