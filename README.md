@@ -1,5 +1,5 @@
 ![Always Good Apps](https://github.com/martinoyovo/martinoyovo/blob/main/tino.co.jpg)
-## 👋 Hey, I’m Martino Yovo
+## Hey👋! I’m Martino
 - 👀 <!--I'm a Mobile Engineer. I'm a <strong>Coach at [Flutter Togo](https://twitter.com/fluttertg)</strong>--> I preach Flutter, I build your dream app with Flutter. <!--, I'm the One!-->
 - 🌱 I'm working to be the One.<!--I’m currently working to be a Flutter GDE (Google Developer Expert) and how to make nice websites with the powerful tailwind.css library.-->
 - 💞️ I’m looking to collaborate on any web or mobile development or tech project that you might have.
