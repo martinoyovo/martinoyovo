@@ -1,8 +1,9 @@
-![Always Good Apps](https://github.com/martinoyovo/martinoyovo/blob/main/tino.co.jpg)
 ## Hey👋! I’m Martino, I'm The One.
  ![](https://github-readme-stats.vercel.app/api?username=martinoyovo&show_icons=true&count_private=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA&)
  
- <!--- 👀I'm a Mobile Engineer. I'm a <strong>Coach at [Flutter Togo](https://twitter.com/fluttertg)</strong>I preach Flutter, I build your dream app with Flutter. I'm the One
+ <!---
+![Always Good Apps](https://github.com/martinoyovo/martinoyovo/blob/main/tino.co.jpg)
+ 👀I'm a Mobile Engineer. I'm a <strong>Coach at [Flutter Togo](https://twitter.com/fluttertg)</strong>I preach Flutter, I build your dream app with Flutter. I'm the One
  🌱 I'm the One.I’m currently working to be a Flutter GDE (Google Developer Expert) and how to make nice websites with the powerful tailwind.css library.
 
     
