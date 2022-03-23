@@ -1,4 +1,4 @@
-## Hey I’m Martino 👋.
+## Hey, I’m Martino 👋.
 
 Flutter/Dart Engineer, I'm The One.
 
