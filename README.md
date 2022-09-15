@@ -2,7 +2,7 @@
 
 Flutter/Dart Engineer, I'm The One.
 
-![Good](https://komarev.com/ghpvc/?username=martinoyovo)
+ <!--- ![Good](https://komarev.com/ghpvc/?username=martinoyovo) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=martinoyovo&show_icons=true&count_private=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA&)
  
