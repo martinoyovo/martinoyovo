@@ -1,6 +1,7 @@
 ## Hey, I’m Martino 👋.
 
 Flutter/Dart Engineer, I'm The One.
+https://komarev.com/ghpvc/?username=martinoyovo&color=green
 
  ![](https://github-readme-stats.vercel.app/api?username=martinoyovo&show_icons=true&count_private=true&bg_color=0D1117&border_radius=0&hide_title=true&text_color=FFF&icon_color=296ECA&)
  
