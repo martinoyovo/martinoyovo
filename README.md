@@ -1,6 +1,8 @@
 ## Hey, I’m Martino 👋.
 
-Flutter/Dart Engineer, I'm The One.
+Flutter/Dart Engineer, and a YouTuber.
+
+### Subscribe to my [YouTube Channel](https://www.youtube.com/@flutterease001)
 
  <!--- ![Good](https://komarev.com/ghpvc/?username=martinoyovo) -->
 
