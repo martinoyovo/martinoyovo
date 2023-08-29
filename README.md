@@ -1,6 +1,6 @@
 ## Hey, I’m Martino 👋.
 
-Flutter/Dart Engineer, and a YouTuber.
+Google Developer Expert for Flutter/Dart, and a YouTuber.
 
 ### Subscribe to my [YouTube Channel](https://www.youtube.com/@flutterease001)
 
