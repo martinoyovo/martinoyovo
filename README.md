@@ -1,6 +1,6 @@
 ## Hi! I’m Martino 👋
 
-a Google Developer Expert for Flutter/Dart with a passion for innovation and a talent for unraveling complex problems. As a Google Developer Expert in Flutter and Dart, I bring forth a wealth of technical expertise and leadership within the community.
+A Software Engineer focused on mobile, with a passion for innovation and a talent for unraveling complex problems. As a Google Developer Expert in Flutter and Dart, I bring forth a wealth of technical expertise and leadership within the community.
 
 🛠️ My journey encompasses a proven track record of success across all stages of the software development lifecycle. 
 Whether it's architecting robust solutions, optimizing code for efficiency, or mentoring aspiring developers, I thrive on the challenges that come with building exceptional software.
