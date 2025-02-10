@@ -1,4 +1,8 @@
-Martino is a Product Engineer II on the Flutter Maps SDK Team for ArcGIS Maps SDKs for Native Apps at Esri. With a foundation in Physics, he transitioned into a dynamic career in technology and has earned recognition as a Google Developer Expert in Flutter and Dart. Martino co-founded TDEV, a nonprofit organization that empowers African youth through digital skills and career development. Through TDEV and other initiatives by Google, GitHub, Microsoft, CodePath, and Global Citizen, he has mentored and supported developers worldwide, leaving a lasting impact on the tech community and inspiring the next generation of professionals.
+Martino is a Product Engineer II on the Flutter Maps SDK Team for ArcGIS Maps SDKs for Native Apps at Esri.
+
+With a foundation in Physics, he transitioned into a dynamic career in technology and has earned recognition as a Google Developer Expert in Flutter and Dart. 
+
+Martino co-founded TDEV, a nonprofit organization that empowers African youth through digital skills and career development. Through TDEV and other initiatives by Google, GitHub, Microsoft, CodePath, and Global Citizen, he has mentored and supported developers worldwide, leaving a lasting impact on the tech community and inspiring the next generation of professionals.
 
 ### Subscribe to my [YouTube Channel](https://www.youtube.com/@flutterease001)
 
