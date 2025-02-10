@@ -1,13 +1,4 @@
-## Hi! I’m Martino 👋
-
-A Software Engineer focused on mobile, with a passion for innovation and a talent for unraveling complex problems. As a Google Developer Expert in Flutter and Dart, I bring forth a wealth of technical expertise and leadership within the community.
-
-🛠️ My journey encompasses a proven track record of success across all stages of the software development lifecycle. 
-Whether it's architecting robust solutions, optimizing code for efficiency, or mentoring aspiring developers, I thrive on the challenges that come with building exceptional software.
-
-🌐 Join me on an exploration of Flutter and Dart, where we'll dive into the intricacies of mobile app development. 
-
-📚 Embark on this learning journey with me, and let's code the future together.
+Martino is a Product Engineer II on the Flutter Maps SDK Team for ArcGIS Maps SDKs for Native Apps at Esri. With a foundation in Physics, he transitioned into a dynamic career in technology and has earned recognition as a Google Developer Expert in Flutter and Dart. Martino co-founded TDEV, a nonprofit organization that empowers African youth through digital skills and career development. Through TDEV and other initiatives by Google, GitHub, Microsoft, CodePath, and Global Citizen, he has mentored and supported developers worldwide, leaving a lasting impact on the tech community and inspiring the next generation of professionals.
 
 ### Subscribe to my [YouTube Channel](https://www.youtube.com/@flutterease001)
 
