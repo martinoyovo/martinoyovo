@@ -1,4 +1,4 @@
-Martino is a Product Engineer II on the Flutter Maps SDK Team for ArcGIS Maps SDKs for Native Apps at Esri.
+Martino is a Product Engineer, a Google Developer Expert and a Community Builder.
 
 With a foundation in Physics, he transitioned into a dynamic career in technology and has earned recognition as a Google Developer Expert in Flutter and Dart. 
 
