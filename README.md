@@ -1,6 +1,6 @@
 Hi, I'm a software engineer, public speaker, and content creator passionate about empowering developers globally through innovative solutions and educational content. I specialize in modern web, mobile technologies, and AI integrations, creating tutorials, demos, and sample applications that help developers build delightful, seamless experiences with cutting-edge tools.
 
-With years of engineering and advocacy experience, I've worked on diverse projects ranging from enterprise applications to open-source tools. I create high-quality technical content—including blog posts, videos, and code samples—that inspires the developer community. I believe in clean code, thoughtful design, and actively engaging with local and global developer ecosystems to provide the tools, resources, and support developers need to succeed.
+With years of engineering and advocacy experience, I've worked on diverse projects ranging from enterprise applications to open-source tools. I create high-quality technical content, including blog posts, videos, and code samples, that inspires the developer community. I believe in clean code, thoughtful design, and actively engaging with local and global developer ecosystems to provide the tools, resources, and support developers need to succeed.
 
 Visit my [Website](https://www.martinoyovo.com)
 
