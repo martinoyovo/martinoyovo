@@ -1,4 +1,4 @@
-- 👀 i design APIs that are hard to misuse.
+- 👀 i design APIs that are hard to misuse
  
  <!--- Hi, I'm a software engineer, public speaker, and content creator passionate about empowering developers globally through innovative solutions and educational content. I specialize in modern web, mobile technologies, and AI integrations, creating tutorials, demos, and sample applications that help developers build delightful, seamless experiences with cutting-edge tools.
 
